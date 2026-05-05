@@ -47,3 +47,4 @@ flutter run
 - Banner de boas-vindas com gradiente
 - Cards de funcionalidades: Dashboard, Menu, Configurações
 - Botão **Sair** → navega para `/login` (substituindo a rota, sem volta)
+- **PopScope** desabilita o botão voltar do dispositivo (Android/iOS)
